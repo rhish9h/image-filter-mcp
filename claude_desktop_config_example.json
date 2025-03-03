@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "image-filters": {
+      "command": "/Users/rhishabhhattarki/Documents/code/image-filter-mcp/venv/bin/python",
+      "args": [
+        "/Users/rhishabhhattarki/Documents/code/image-filter-mcp/server.py"
+      ]
+    }
+  }
+}
